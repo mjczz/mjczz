@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjczz
 - 👀 I’m interested in fitness
-- 🌱 I’m currently learning English
+- 🌱 I’m currently learning English，CrossFit
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
