@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-The best way to learn to code is to code. 
+The best way to learn to code is to code. \n
 But, to write good code, you will also have to read good code. 
 Make a habit of reading good code. 
 You can find many open-source projects on GitHub and start reading.
