@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjczz
-- 👀 I’m interested in fitness
-- 🌱 I’m currently learning English，CrossFit
+- 👀 I’m interested in fitness, web3
+- 🌱 I’m currently learning English，CrossFit，solana, rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
