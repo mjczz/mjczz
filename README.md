@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjczz
 - 👀 I’m interested in fitness, web3
 - 🌱 I’m currently learning English，CrossFit，solana, rust
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I love Michael Jackson 
 - 📫 How to reach me ...
 
 ```
